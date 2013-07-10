@@ -1,1 +1,1 @@
-../node_modules/jade/runtime.js
+ln -s ../node_modules/jade/runtime.js jade.js
